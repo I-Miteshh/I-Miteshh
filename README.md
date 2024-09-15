@@ -1,36 +1,23 @@
-# 💻 Hello, I'm Mitesh
+# 💻 Hey there, I'm Mitesh
 
-### 🌟 Data Engineering | Advanced Analytics | Big Data Enthusiast
+### 🌟 Data Whisperer | Big Data Adventurer ☁️
 
-Welcome to my GitHub! I'm passionate about designing and implementing large-scale data systems, with a particular interest in **cloud-native architectures**, **data warehousing**, and **real-time stream processing**. 
+Welcome to my GitHub corner! If you’re into **data**, **cloud-native architectures**, and **real-time stream processing**, you’re in the right place. I spend my days (and sometimes nights) building scalable data systems, tweaking pipelines, and convincing cloud services to behave. 🙃
 
-### 🚀 About Me
+### 🚀 A Bit About Me
 
-Data Engineer with over 3 years of experience in building scalable data pipelines using Big Data tools. Proficient in leveraging Azure cloud solutions to enhance workflow efficiency and performance.
+By day, I work magic on **data pipelines**, helping organizations make sense of their chaos and turn it into actionable insights. By night, I’m likely orchestrating complex data workflows with **Apache Airflow** or debugging yet another **Kafka** stream (they keep me on my toes).
 
 ### 🔧 Skills & Technologies
+I’m fluent in the languages of data (and by that, I mean both **SQL** and **Scala**). My toolbox includes:
+- **Languages**: Python, SQL, Scala
+- **Data Processing**: Apache Spark, Databricks, Apache Kafka
+- **Data Storage**: Data Lake, MySQL, MongoDB
+- **Data Warehousing**: Snowflake ❄️, Azure Synapse Analytics
+- **Visualization**: Power BI (because pretty charts make everything better!)
 
-- **Languages:** Python, Scala, SQL
-- **Processing:** Apache Spark, Apache Kafka
-- **Storage:** Data Lake, MySQL, MongoDB
-- **Visualisation:** Power BI
-- **Cloud Ops:** Azure, JIRA, ServiceNow
-- **Operating System:** Windows, Ubuntu, CentOS
+### 🗂️ What You’ll Find Here
+Here, you'll find my collection of **weekend projects** — yes, I love to spend my weekends crafting solutions for **data challenges** and putting new tools to the test. Sometimes it’s about **real-time analytics**, sometimes tinkering randomly — there’s always something cooking! 🍳
 
-### 🌐 Selected Projects
-
-#### **OptiWare - Warehouse Optimization** 
-- Implemented data warehouse optimizations using Azure Data Lake and Azure Databricks, applying Columnstore and
-B-Tree indexing strategies. Enhanced query performance by 20% and significantly reduced data retrieval times.
-- Developed and integrated efficient data pipelines with Apache Kafka for real-time data ingestion and visualized insights
-with Power BI. Improved data processing efficiency by 30% and streamlined real-time analytics capabilities
-
-#### **AZE2E - Analystics and Insights**
-- Implemented a modern data warehouse architecture using Azure Data Services, including Azure Data Lake Storage for
-scalable data storage, Azure Data Factory for data pipeline orchestration, and Azure Databricks for big data processing.
-- Integrated non-structured data and real-time analytics using Azure Event Hubs for data ingestion and Apache Kafka for
-real-time stream processing and Power BI for data visualization and reporting, creating a versatile platform for
-comprehensive analysis.
-
-### 📫 Let's Connect!
+### 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/imitesh99)
